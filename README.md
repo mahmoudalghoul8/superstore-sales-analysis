@@ -42,7 +42,7 @@ The goal of this project is to evaluate sales performance across categories, reg
 - **Recommendation:** cap discounts at around 20%, especially on Tables, Bookcases and Binders.
 
 ## 🖼️ Dashboard Preview
-![Dashboard](dashboard/dashboard.png)
+   ![Dashboard](Dashboard.png)
 
 ## 🛠️ Tools
 **SQL (MySQL)** · **Power BI** · **Excel**
