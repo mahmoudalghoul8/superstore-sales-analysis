@@ -48,11 +48,10 @@ The goal of this project is to evaluate sales performance across categories, reg
 **SQL (MySQL)** · **Power BI** · **Excel**
 
 ## 📁 Repository Structure
-```
-sql/          SQL queries used in the analysis
-dashboard/    Power BI dashboard (.pbix) and screenshots
-data/         Cleaned dataset (public Sample Superstore data)
-```
+   Dashboard.png                       Dashboard screenshot
+   Superstore Sales Analysis.pbix      Power BI dashboard
+   superstore_queries.sql              SQL queries
+   SampleSuperstore.csv                Cleaned dataset
 
 ## 📚 Data Source
 Sample Superstore dataset (publicly available).
